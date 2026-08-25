@@ -1,0 +1,4 @@
+indicator,year,value,unit,geography,source,source_url,missing_flag,source_verified
+Synthetic share in industrial textiles,2022,57.0,%,EU27,EEA,https://www.eea.europa.eu/en/circularity/sectoral-modules/textiles,False,True
+Separate-collected textile waste sent to landfill/incineration,2022,26.0,%,EU27,EEA,https://www.eea.europa.eu/en/circularity/sectoral-modules/textiles/share-of-textile-waste-sent-to-incineration-or-landfill-in-the-eu,False,True
+Household textile waste capture rate,2022,15.0,%,EU27,EEA,https://www.eea.europa.eu/en/circularity/sectoral-modules/textiles/capture-rate-for-waste-textiles-and-shoes-in-the-eu,False,True
