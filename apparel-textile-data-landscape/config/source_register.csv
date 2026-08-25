@@ -1,8 +1,0 @@
-source,owner,coverage,primary_use,official_url,notes
-UN Comtrade,UN Statistics Division,Bilateral merchandise trade by reporter partner and commodity,Trade flows and market concentration,https://comtradeplus.un.org/TradeFlow,Keep original HS codes and units
-World Bank WITS,World Bank,Trade tariffs and market-access analytics,Competitiveness and tariff context,https://wits.worldbank.org/about_wits.html,Underlying datasets may have different access rules
-WTO Statistics,World Trade Organization,Global merchandise trade indicators,Macro validation and recent trade trends,https://data.wto.org/en/dataset/commerchandise,Track revisions and aggregation level
-Eurostat PRODCOM,European Commission / Eurostat,EU industrial production by product,Production trends and capacity context,https://ec.europa.eu/eurostat/web/prodcom,EU-focused and mainly annual
-ILOSTAT / ILO,International Labour Organization,Employment and labour indicators,Workforce and productivity context,https://ilostat.ilo.org/,Check country and sector definitions
-FAOSTAT / OECD-FAO,FAO,Commodity and cotton production trade and outlook,Upstream material exposure,https://www.fao.org/faostat/en/,Separate observed data from projections
-EEA Circularity Metrics Lab,European Environment Agency,Textile consumption waste reuse treatment and circularity,Environmental and circularity KPIs,https://www.eea.europa.eu/en/circularity/sectoral-modules/textiles,EU-specific and methodology-sensitive
